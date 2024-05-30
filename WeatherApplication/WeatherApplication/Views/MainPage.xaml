@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WeatherApplication"
+             xmlns:converters="clr-namespace:WeatherApplication.Converters" xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             x:Class="WeatherApplication.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:TextToImageConverter x:Key="converter"></converters:TextToImageConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <d:StackLayout BackgroundColor="#fafafa">
+        <StackLayout BackgroundColor="#fafafa" Padding="0, 30, 0, 30">
+            <Image Source="WeatherNow" HorizontalOptions="Center" Margin="0, 10, 0, 20"/>
+            <SearchBar 
+                SearchCommand="{Binding SearchCommand}"
+                x:Name="search"
+                SearchCommandParameter="{Binding Text, Source={x:Reference search}}"
+                Margin="0, 0, 20, 0"
+                Placeholder="Enter Location here ..."
+                TextColor="#000"
+                PlaceholderColor="#000"
+                >
+            </SearchBar>
+        </StackLayout>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Padding="20, 0, 20, 0"  BackgroundColor="#fafafa">
+            <Image x:Name="WeatherImage" Source="{Binding Data.weather[0].main, Converter={StaticResource converter}}" WidthRequest="200" HeightRequest="200"></Image>
+            <Label x:Name="PlaceSearched" Text="{Binding Data.weather[0].main}" FontSize="25" FontAttributes="Bold" TextColor="#000"/>
+            <Label x:Name="WeatherTemp"  Text="{Binding Data.main.temp, StringFormat='{0:F1}°C'}" TextColor="#000"/>
+            <Label x:Name="WeatherFeelsLike" Text="{Binding Data.main.feels_like, StringFormat='Feels Like {0:F1}°C'}" TextColor="#000"/>
+            <Label x:Name="WeatherDesc" Text="{Binding Data.weather[0].description}" TextColor="#000"></Label>
+        </StackLayout>
+        <Grid Margin="105, 0, 0, 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Text="{Binding Data.wind.speed, StringFormat='{}{0} m/s NW'}" TextColor="#000"/>
+            <Label Grid.Row="0" Grid.Column="1" Text="{Binding Data.main.pressure, StringFormat='{}{0} hPa'}" TextColor="#000"/>
+            <Label Grid.Row="1" Grid.Column="0" Text="{Binding Data.main.humidity, StringFormat='Humidity: {0}'}" TextColor="#000"/>
+            <Label Grid.Row="1" Grid.Column="1" Text="{Binding Data.visibility, StringFormat='Visibility: {0}'}" TextColor="#000"/>
+        </Grid>
+    </d:StackLayout>
+
+</ContentPage>

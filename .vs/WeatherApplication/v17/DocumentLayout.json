@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|c:\\users\\admin\\source\\repos\\weatherapplication\\weatherapplication\\weatherapplication\\converters\\texttoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|solutionrelative:weatherapplication\\weatherapplication\\converters\\texttoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|c:\\users\\admin\\source\\repos\\weatherapplication\\weatherapplication\\weatherapplication\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|solutionrelative:weatherapplication\\weatherapplication\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|c:\\users\\admin\\source\\repos\\weatherapplication\\weatherapplication\\weatherapplication\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|solutionrelative:weatherapplication\\weatherapplication\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|c:\\users\\admin\\source\\repos\\weatherapplication\\weatherapplication\\weatherapplication\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|solutionrelative:weatherapplication\\weatherapplication\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|c:\\users\\admin\\source\\repos\\weatherapplication\\weatherapplication\\weatherapplication\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EFA80E-EEA0-4D23-84E5-2AAE8FBCC267}|WeatherApplication\\WeatherApplication\\WeatherApplication.csproj|solutionrelative:weatherapplication\\weatherapplication\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WeatherApplication\\WeatherApplication\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\Views\\MainPage.xaml",
+              "RelativeToolTip": "WeatherApplication\\WeatherApplication\\Views\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T11:32:28.594Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherApplication\\WeatherApplication\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "WeatherApplication\\WeatherApplication\\Views\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:26:28.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "WeatherApplication\\WeatherApplication\\Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\Models\\WeatherData.cs",
+              "RelativeToolTip": "WeatherApplication\\WeatherApplication\\Models\\WeatherData.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAywCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T05:25:29.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextToImageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\Converters\\TextToImageConverter.cs",
+              "RelativeDocumentMoniker": "WeatherApplication\\WeatherApplication\\Converters\\TextToImageConverter.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\Converters\\TextToImageConverter.cs",
+              "RelativeToolTip": "WeatherApplication\\WeatherApplication\\Converters\\TextToImageConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:09:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "WeatherApplication\\WeatherApplication\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WeatherApplication\\WeatherApplication\\WeatherApplication\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "WeatherApplication\\WeatherApplication\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:30:20.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

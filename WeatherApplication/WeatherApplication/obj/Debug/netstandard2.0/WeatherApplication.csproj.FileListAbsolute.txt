@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\bin\Debug\netstandard2.0\WeatherApplication.deps.json
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\bin\Debug\netstandard2.0\WeatherApplication.dll
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\bin\Debug\netstandard2.0\ref\WeatherApplication.dll
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\bin\Debug\netstandard2.0\WeatherApplication.pdb
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\WeatherApplication.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\WeatherApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\WeatherApplication.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\WeatherApplication.AssemblyInfo.cs
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\WeatherApplication.dll
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\refint\WeatherApplication.dll
+C:\Users\admin\source\repos\WeatherApplication\WeatherApplication\WeatherApplication\obj\Debug\netstandard2.0\WeatherApplication.pdb
